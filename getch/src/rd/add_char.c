@@ -10,7 +10,7 @@
 
 #include <stdlib.h>
 #include <string.h>
-#include "rd.h"
+#include "rd.hpp"
 
 static int	char_add_at(char **str, int x, char c)
 {

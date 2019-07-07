@@ -12,7 +12,7 @@
 # define CH_H_
 
 # include <stddef.h>
-# include "getch.h"
+# include "getch.hpp"
 
 # define KEY_MAX_SIZE (16)
 # define CH_ESC ('\e')

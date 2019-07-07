@@ -11,7 +11,7 @@
 #ifndef RD_H_
 # define RD_H_
 
-# include "ch.h"
+# include "ch.hpp"
 
 # define RD_LINE ((rd->history->lines)[rd->history->pos])
 # define HISTORY_SIZE (10)
