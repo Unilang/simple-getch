@@ -8,7 +8,7 @@
 ** Last update Mon May 16 14:30:11 2016 alies_a
 */
 
-#include "rd.h"
+#include "rd.hpp"
 
 int	rd_left(t_rd *rd, int key)
 {

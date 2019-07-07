@@ -9,7 +9,7 @@
 */
 
 #include <unistd.h>
-#include "rd.h"
+#include "rd.hpp"
 
 void	rd_put(t_rd const *rd, char c)
 {

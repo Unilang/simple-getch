@@ -10,7 +10,7 @@
 
 #include <string.h>
 #include <stdlib.h>
-#include "rd.h"
+#include "rd.hpp"
 
 static int	rd_init(int fd, t_rd *rd)
 {

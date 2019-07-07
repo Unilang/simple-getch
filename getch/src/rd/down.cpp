@@ -9,7 +9,7 @@
 */
 
 #include <string.h>
-#include "rd.h"
+#include "rd.hpp"
 
 int     rd_down(t_rd *rd, int key)
 {

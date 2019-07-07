@@ -8,7 +8,7 @@
 ** Last update Wed May 18 16:44:35 2016 alies_a
 */
 
-#include "rd.h"
+#include "rd.hpp"
 
 static t_act g_actions[] = {
   {rd_left, K_LEFT},

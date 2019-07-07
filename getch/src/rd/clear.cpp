@@ -9,7 +9,7 @@
 */
 
 #include <string.h>
-#include "rd.h"
+#include "rd.hpp"
 
 void    rd_clear(t_rd *rd, int size)
 {

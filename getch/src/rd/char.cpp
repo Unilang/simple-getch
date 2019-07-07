@@ -8,7 +8,7 @@
 ** Last update Tue May 17 13:45:34 2016 alies_a
 */
 
-#include "rd.h"
+#include "rd.hpp"
 
 int	rd_char(t_rd *rd, int key)
 {

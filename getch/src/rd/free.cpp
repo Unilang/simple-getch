@@ -8,7 +8,7 @@
 ** Last update Thu May 19 14:54:34 2016 alies_a
 */
 
-#include "rd.h"
+#include "rd.hpp"
 
 void	rd_free()
 {
