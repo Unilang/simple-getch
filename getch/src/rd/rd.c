@@ -12,7 +12,7 @@
 
 static t_act actions[] = {
   {rd_left, K_LEFT},
-  {rd_void, K_UNK},
+  //{rd_void, K_UNK},
   {NULL, 0}
 };
 
@@ -27,5 +27,5 @@ t_action	rd_get_action(int key)
 	return (actions[x].func);
       x += 1;
     }
-  return (rd_default);
+  return (rd_left);
 }
