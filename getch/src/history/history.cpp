@@ -10,7 +10,7 @@
 
 #include <stdlib.h>
 #include <string.h>
-#include "rd.h"
+#include "rd.hpp"
 
 static t_history      history;
 static int            first = 1;
