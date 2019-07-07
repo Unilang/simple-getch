@@ -9,7 +9,7 @@
 */
 
 #include <string.h>
-#include "rd.h"
+#include "rd.hpp"
 
 void		rd_disp(t_rd *rd)
 {
