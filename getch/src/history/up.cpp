@@ -8,7 +8,7 @@
 ** Last update Thu May 19 13:11:04 2016 alies_a
 */
 
-#include "rd.h"
+#include "rd.hpp"
 
 void	history_up(t_history *history)
 {
