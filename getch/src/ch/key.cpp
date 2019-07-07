@@ -12,7 +12,7 @@
 #include <termios.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
-#include "ch.h"
+#include "ch.hpp"
 
 static int	key_cmp(t_key const *keys,
 			char const *comb,
