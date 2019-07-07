@@ -12,7 +12,7 @@
 #include <unistd.h>
 #include <sys/ioctl.h>
 #include <stdbool.h>
-#include "getch.h"
+#include "getch.hpp"
 
 static struct termios old_term;
 static bool set = false;
